@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Raisethebar]]></title>
+        <description><![CDATA[Raisethebar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 06:59:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Have you always felt that life dealt you a tough hand and that BEING and LIVING rich weren't for you - or even if they were, you didn't know what or how to go about it?</p>]]></description>
+            <link>undefinedhave-you-always-felt-that-life-dealt-you-a-tough-hand-and-th/index.html</link>
+            <guid isPermaLink="false">1cbae9b2-92f0-4fd6-a080-f858e058c561</guid>
+            <pubDate>Thu, 18 Aug 2016 06:59:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
