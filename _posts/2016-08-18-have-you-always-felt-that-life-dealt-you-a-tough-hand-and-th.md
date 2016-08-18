@@ -8,16 +8,16 @@ description: >-
   Have you always felt that life dealt you a tough hand and that BEING and
   LIVING rich weren't for you - or even if they were, you didn't know what or
   how to go about it?
-datePublished: '2016-08-18T06:59:47.850Z'
-dateModified: '2016-08-18T06:58:45.650Z'
+datePublished: '2016-08-18T08:13:35.237Z'
+dateModified: '2016-08-18T08:12:51.182Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-18-have-you-always-felt-that-life-dealt-you-a-tough-hand-and-th.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-18-have-you-always-felt-that-life-dealt-you-a-tough-hand-and-th.md
 url: have-you-always-felt-that-life-dealt-you-a-tough-hand-and-th/index.html
 _type: Article
 
