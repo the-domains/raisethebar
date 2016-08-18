@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Raisethebar]]></title>
         <description><![CDATA[Raisethebar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raisethebar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 06:59:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 06:59:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raisethebar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8244e6d7-111c-4ca9-8c95-9d7d34aee90f.jpg">]]></description>
+            <link>https://thegrid.ai/raisethebar/af6d35b1-1c64-40a7-a649-689ebee9c02f/index.html</link>
+            <guid isPermaLink="false">af6d35b1-1c64-40a7-a649-689ebee9c02f</guid>
+            <pubDate>Thu, 18 Aug 2016 06:59:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Have you always felt that life dealt you a tough hand and that BEING and LIVING rich weren't for you - or even if they were, you didn't know what or how to go about it?</p>]]></description>
-            <link>undefinedhave-you-always-felt-that-life-dealt-you-a-tough-hand-and-th/index.html</link>
+            <link>https://thegrid.ai/raisethebar/have-you-always-felt-that-life-dealt-you-a-tough-hand-and-th/index.html</link>
             <guid isPermaLink="false">1cbae9b2-92f0-4fd6-a080-f858e058c561</guid>
             <pubDate>Thu, 18 Aug 2016 06:59:47 GMT</pubDate>
         </item>
