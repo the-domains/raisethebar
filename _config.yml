@@ -1,19 +1,4 @@
-name: raisetheaverage
-favicon: null
-layout_spectrum: 0.6246424550190568
 typography_spectrum: 0.15827915887348354
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,19 @@ color:
   lightness: 0.020894527668133378
   saturation: 0.8193783715832978
   rhythmicContrast: 0.1829301028046757
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6246424550190568
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: raisetheaverage
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
